@@ -1,0 +1,617 @@
+{
+    "716F6F92-1600-4FAC-9458-9E83A9BCD170": {
+        "assets": [
+            {
+                "C9MVY": "33D399ED-2385-48CD-9E2B-1C5025CCFD85",
+                "deviceId": "C9MVY",
+                "type": "asset",
+                "uuid": "33D399ED-2385-48CD-9E2B-1C5025CCFD85"
+            },
+            {
+                "C9LYL": "097D8A0E-0E17-46B2-A00D-399C937B43F5",
+                "deviceId": "C9LYL",
+                "type": "asset",
+                "uuid": "097D8A0E-0E17-46B2-A00D-399C937B43F5"
+            },
+            {
+                "C9MPJ": "BF843C97-748F-4D05-AD5D-7C73D04921C7",
+                "deviceId": "C9MPJ",
+                "type": "asset",
+                "uuid": "BF843C97-748F-4D05-AD5D-7C73D04921C7"
+            },
+            {
+                "C9MGX": "3B2DEF76-2CF2-4742-858C-345C0BDA5645",
+                "deviceId": "C9MGX",
+                "type": "asset",
+                "uuid": "3B2DEF76-2CF2-4742-858C-345C0BDA5645"
+            },
+            {
+                "C9MPC": "E3D7754A-3B8B-45BA-AD6C-29047C4E3B75",
+                "deviceId": "C9MPC",
+                "type": "asset",
+                "uuid": "E3D7754A-3B8B-45BA-AD6C-29047C4E3B75"
+            },
+            {
+                "C9MMV": "45D175BF-68C8-48FE-ACCD-8DBBD8504426",
+                "deviceId": "C9MMV",
+                "type": "asset",
+                "uuid": "45D175BF-68C8-48FE-ACCD-8DBBD8504426"
+            },
+            {
+                "C9MVX": "35A6C4FA-E03E-40C2-BFC5-9AE3D2DEA0DD",
+                "deviceId": "C9MVX",
+                "type": "asset",
+                "uuid": "35A6C4FA-E03E-40C2-BFC5-9AE3D2DEA0DD"
+            },
+            {
+                "C9MJZ": "3B4DD48B-DE1F-446C-B047-A1B81EA90C01",
+                "deviceId": "C9MJZ",
+                "type": "asset",
+                "uuid": "3B4DD48B-DE1F-446C-B047-A1B81EA90C01"
+            },
+            {
+                "C9L25": "608487D5-3FA7-4B36-85F9-BFEBA004420B",
+                "deviceId": "C9L25",
+                "type": "asset",
+                "uuid": "608487D5-3FA7-4B36-85F9-BFEBA004420B"
+            },
+            {
+                "C9LYF": "784A5A71-0B48-4BFE-A2C2-59D953A28779",
+                "deviceId": "C9LYF",
+                "type": "asset",
+                "uuid": "784A5A71-0B48-4BFE-A2C2-59D953A28779"
+            },
+            {
+                "C9LLK": "960AEB72-7C18-4E9B-BB7A-F0EAEFCEE380",
+                "deviceId": "C9LLK",
+                "type": "asset",
+                "uuid": "960AEB72-7C18-4E9B-BB7A-F0EAEFCEE380"
+            },
+            {
+                "C9LZN": "9AE4BB15-F9E3-4AD9-8A7C-F64F7F04CEF5",
+                "deviceId": "C9LZN",
+                "type": "asset",
+                "uuid": "9AE4BB15-F9E3-4AD9-8A7C-F64F7F04CEF5"
+            },
+            {
+                "C9LYK": "A94E1610-25AC-4774-AB9D-167624950E48",
+                "deviceId": "C9LYK",
+                "type": "asset",
+                "uuid": "A94E1610-25AC-4774-AB9D-167624950E48"
+            },
+            {
+                "C9MXM": "31F843E9-E78E-433D-9F34-43A895916FEA",
+                "deviceId": "C9MXM",
+                "type": "asset",
+                "uuid": "31F843E9-E78E-433D-9F34-43A895916FEA"
+            },
+            {
+                "C9MXN": "1F4429B3-CABA-4DC9-ABBD-D0F2767CD7E0",
+                "deviceId": "C9MXN",
+                "type": "asset",
+                "uuid": "1F4429B3-CABA-4DC9-ABBD-D0F2767CD7E0"
+            },
+            {
+                "C9MM2": "F8D2AEAF-11E2-4F88-A0ED-E2EE198161D8",
+                "deviceId": "C9MM2",
+                "type": "asset",
+                "uuid": "F8D2AEAF-11E2-4F88-A0ED-E2EE198161D8"
+            },
+            {
+                "C9MKK": "BE4DE8F0-38DF-4C2C-8AF3-C0B405019179",
+                "deviceId": "C9MKK",
+                "type": "asset",
+                "uuid": "BE4DE8F0-38DF-4C2C-8AF3-C0B405019179"
+            },
+            {
+                "C9MPZ": "5B1FE142-FFB9-4B79-889E-44388B70DD5A",
+                "deviceId": "C9MPZ",
+                "type": "asset",
+                "uuid": "5B1FE142-FFB9-4B79-889E-44388B70DD5A"
+            },
+            {
+                "C9MPP": "97DEBAD3-86E2-4D37-96A9-FAD70C99EAE2",
+                "deviceId": "C9MPP",
+                "type": "asset",
+                "uuid": "97DEBAD3-86E2-4D37-96A9-FAD70C99EAE2"
+            },
+            {
+                "C9MPL": "0972F33C-C13C-49C5-9D7D-D3E44E985C32",
+                "deviceId": "C9MPL",
+                "type": "asset",
+                "uuid": "0972F33C-C13C-49C5-9D7D-D3E44E985C32"
+            },
+            {
+                "C9MG3": "EC2A463F-91C6-41F4-95D6-FC3890A41F7D",
+                "deviceId": "C9MG3",
+                "type": "asset",
+                "uuid": "EC2A463F-91C6-41F4-95D6-FC3890A41F7D"
+            },
+            {
+                "C9LVD": "D0B66F4D-2328-49F8-A092-EC598091FDEA",
+                "deviceId": "C9LVD",
+                "type": "asset",
+                "uuid": "D0B66F4D-2328-49F8-A092-EC598091FDEA"
+            },
+            {
+                "C9L9H": "AE0C0BA4-3D56-4AD9-BF3A-FDE8511C6569",
+                "deviceId": "C9L9H",
+                "type": "asset",
+                "uuid": "AE0C0BA4-3D56-4AD9-BF3A-FDE8511C6569"
+            },
+            {
+                "C9L92": "629B97B9-D544-4A5C-AF12-BD76D6CCD33C",
+                "deviceId": "C9L92",
+                "type": "asset",
+                "uuid": "629B97B9-D544-4A5C-AF12-BD76D6CCD33C"
+            },
+            {
+                "C9MBV": "9DB0985D-6FAF-45F6-BD59-0A2E569628D4",
+                "deviceId": "C9MBV",
+                "type": "asset",
+                "uuid": "9DB0985D-6FAF-45F6-BD59-0A2E569628D4"
+            },
+            {
+                "C9L9L": "74C6FA4B-877D-4E60-9407-0162E6E39385",
+                "deviceId": "C9L9L",
+                "type": "asset",
+                "uuid": "74C6FA4B-877D-4E60-9407-0162E6E39385"
+            },
+            {
+                "C9MZL": "586A608F-62F7-4C24-A498-C9F346822ABE",
+                "deviceId": "C9MZL",
+                "type": "asset",
+                "uuid": "586A608F-62F7-4C24-A498-C9F346822ABE"
+            },
+            {
+                "C9LT7": "3799A87C-6DE9-4FD4-9F1E-C94EB1F8C944",
+                "deviceId": "C9LT7",
+                "type": "asset",
+                "uuid": "3799A87C-6DE9-4FD4-9F1E-C94EB1F8C944"
+            },
+            {
+                "C9L8K": "CEF7AE6C-1E57-4666-A5FF-882FB4BABFBD",
+                "deviceId": "C9L8K",
+                "type": "asset",
+                "uuid": "CEF7AE6C-1E57-4666-A5FF-882FB4BABFBD"
+            },
+            {
+                "C9LXY": "57E7AB16-7FB9-4B6A-91F3-8E56A0F797D4",
+                "deviceId": "C9LXY",
+                "type": "asset",
+                "uuid": "57E7AB16-7FB9-4B6A-91F3-8E56A0F797D4"
+            },
+            {
+                "C9L9Z": "0FD17C47-5968-415B-B72B-394A420A1FCB",
+                "deviceId": "C9L9Z",
+                "type": "asset",
+                "uuid": "0FD17C47-5968-415B-B72B-394A420A1FCB"
+            },
+            {
+                "C9M2Y": "9B3EFE84-DD65-4BBB-8FC2-40524F1F596D",
+                "deviceId": "C9M2Y",
+                "type": "asset",
+                "uuid": "9B3EFE84-DD65-4BBB-8FC2-40524F1F596D"
+            },
+            {
+                "C9M2W": "D1B725A8-B3EC-40CE-B490-060C993B7F92",
+                "deviceId": "C9M2W",
+                "type": "asset",
+                "uuid": "D1B725A8-B3EC-40CE-B490-060C993B7F92"
+            },
+            {
+                "C9M2X": "2D5D76E9-6048-4BD1-AEC2-89C019B33B42",
+                "deviceId": "C9M2X",
+                "type": "asset",
+                "uuid": "2D5D76E9-6048-4BD1-AEC2-89C019B33B42"
+            },
+            {
+                "C9M2V": "1B4BCA58-718C-43A5-B88C-00CEC0254A6D",
+                "deviceId": "C9M2V",
+                "type": "asset",
+                "uuid": "1B4BCA58-718C-43A5-B88C-00CEC0254A6D"
+            },
+            {
+                "C9M2Z": "C0A16E8C-6F40-46FA-80F4-D9C8F1A3CE65",
+                "deviceId": "C9M2Z",
+                "type": "asset",
+                "uuid": "C0A16E8C-6F40-46FA-80F4-D9C8F1A3CE65"
+            },
+            {
+                "C9MZQ": "044FE9C9-8729-4741-996F-21EE7B38E19C",
+                "deviceId": "C9MZQ",
+                "type": "asset",
+                "uuid": "044FE9C9-8729-4741-996F-21EE7B38E19C"
+            },
+            {
+                "C9MN7": "6C1DA378-0403-424F-B025-5FE43ACE80DC",
+                "deviceId": "C9MN7",
+                "type": "asset",
+                "uuid": "6C1DA378-0403-424F-B025-5FE43ACE80DC"
+            },
+            {
+                "C9M2Q": "14D151A6-4BF5-4808-963D-248154380BB2",
+                "deviceId": "C9M2Q",
+                "type": "asset",
+                "uuid": "14D151A6-4BF5-4808-963D-248154380BB2"
+            },
+            {
+                "C9MKW": "FA05DFB2-6B27-4418-B76A-7F00743675C2",
+                "deviceId": "C9MKW",
+                "type": "asset",
+                "uuid": "FA05DFB2-6B27-4418-B76A-7F00743675C2"
+            },
+            {
+                "C9M2T": "388BE564-626A-4BA3-BDB7-4802AB5E5D0B",
+                "deviceId": "C9M2T",
+                "type": "asset",
+                "uuid": "388BE564-626A-4BA3-BDB7-4802AB5E5D0B"
+            },
+            {
+                "C9L9T": "B5BE4057-8EAD-48E6-8D2A-3E56BC24932C",
+                "deviceId": "C9L9T",
+                "type": "asset",
+                "uuid": "B5BE4057-8EAD-48E6-8D2A-3E56BC24932C"
+            },
+            {
+                "C9L9T": "B5BE4057-8EAD-48E6-8D2A-3E56BC24932C",
+                "deviceId": "C9L9T",
+                "type": "asset",
+                "uuid": "B5BE4057-8EAD-48E6-8D2A-3E56BC24932C"
+            },
+            {
+                "C9MMY": "F3C3F7AC-66C1-418F-89F9-2E677382D35C",
+                "deviceId": "C9MMY",
+                "type": "asset",
+                "uuid": "F3C3F7AC-66C1-418F-89F9-2E677382D35C"
+            },
+            {
+                "C9MZJ": "DB40E39B-49F8-41F7-9904-5E57CAF8CA2E",
+                "deviceId": "C9MZJ",
+                "type": "asset",
+                "uuid": "DB40E39B-49F8-41F7-9904-5E57CAF8CA2E"
+            },
+            {
+                "C9L87": "AED3B8F8-4EDB-415A-8FA1-BCB57A2475DE",
+                "deviceId": "C9L87",
+                "type": "asset",
+                "uuid": "AED3B8F8-4EDB-415A-8FA1-BCB57A2475DE"
+            },
+            {
+                "C9LYV": "C6B71550-B369-450F-AA20-A1816EE6CA4E",
+                "deviceId": "C9LYV",
+                "type": "asset",
+                "uuid": "C6B71550-B369-450F-AA20-A1816EE6CA4E"
+            }
+        ],
+        "nodes": [
+            {
+                "C9MCM": "0EA2D499-BB2F-439F-ABAD-49726CFC468A",
+                "deviceId": "C9MCM",
+                "position": {
+                    "x": "0.9936334191469863",
+                    "y": "0.7421848304884935"
+                },
+                "type": "node",
+                "uuid": "0EA2D499-BB2F-439F-ABAD-49726CFC468A"
+            },
+            {
+                "C9MCP": "122A36BB-6969-4DD4-BE9A-D6944837D284",
+                "deviceId": "C9MCP",
+                "position": {
+                    "x": "0.4105169774732874",
+                    "y": "0.044903550047954814"
+                },
+                "type": "node",
+                "uuid": "122A36BB-6969-4DD4-BE9A-D6944837D284"
+            },
+            {
+                "C9LPL": "16E10782-8A5D-4114-B53D-A7DB0F44B566",
+                "deviceId": "C9LPL",
+                "position": {
+                    "x": "0.5677659328382083",
+                    "y": "0.7884961303481354"
+                },
+                "type": "node",
+                "uuid": "16E10782-8A5D-4114-B53D-A7DB0F44B566"
+            },
+            {
+                "C9LNH": "241AA741-7F68-4D5F-BCEC-E70C214D058D",
+                "deviceId": "C9LNH",
+                "position": {
+                    "x": "0.40527534562779005",
+                    "y": "0.20461885778848657"
+                },
+                "type": "node",
+                "uuid": "241AA741-7F68-4D5F-BCEC-E70C214D058D"
+            },
+            {
+                "C9LPF": "2C327AEC-30EE-4DCE-BAD5-2275577F2CF5",
+                "deviceId": "C9LPF",
+                "position": {
+                    "x": "0.47303554522396407",
+                    "y": "0.4542281376842831"
+                },
+                "type": "node",
+                "uuid": "2C327AEC-30EE-4DCE-BAD5-2275577F2CF5"
+            },
+            {
+                "C9LPP": "31450509-0F06-4CC5-B58C-584A1AEE3BD5",
+                "deviceId": "C9LPP",
+                "position": {
+                    "x": "0.08561200593150922",
+                    "y": "0.3032789430416982"
+                },
+                "type": "node",
+                "uuid": "31450509-0F06-4CC5-B58C-584A1AEE3BD5"
+            },
+            {
+                "C9LPH": "46491500-C9F6-4E48-BBB0-D0E38AA5A5D1",
+                "deviceId": "C9LPH",
+                "position": {
+                    "x": "0.17464354442590604",
+                    "y": "0.7832595628812328"
+                },
+                "type": "node",
+                "uuid": "46491500-C9F6-4E48-BBB0-D0E38AA5A5D1"
+            },
+            {
+                "C9K4T": "496B9D36-87A0-48EF-AB9E-C4130C3CD4FD",
+                "deviceId": "C9K4T",
+                "position": {
+                    "x": "0.9263809116009866",
+                    "y": "0.7518401580798169"
+                },
+                "type": "node",
+                "uuid": "496B9D36-87A0-48EF-AB9E-C4130C3CD4FD"
+            },
+            {
+                "C9L22": "7865AD47-A454-4EAB-9C4D-46EA416E6CF5",
+                "deviceId": "C9L22",
+                "position": {
+                    "x": "0.7389925731244555",
+                    "y": "0.5633237292713201"
+                },
+                "type": "node",
+                "uuid": "7865AD47-A454-4EAB-9C4D-46EA416E6CF5"
+            },
+            {
+                "C9LPM": "786E89F1-4A2B-4439-960A-9CA4A35FD4C0",
+                "deviceId": "C9LPM",
+                "position": {
+                    "x": "0.2717988872105027",
+                    "y": "0.5462315477439592"
+                },
+                "type": "node",
+                "uuid": "786E89F1-4A2B-4439-960A-9CA4A35FD4C0"
+            },
+            {
+                "C9LTL": "91CCC940-29A4-4436-86FE-2F593992EF01",
+                "deviceId": "C9LTL",
+                "position": {
+                    "x": "0.9282416221183184",
+                    "y": "0.9024553831127238"
+                },
+                "type": "node",
+                "uuid": "91CCC940-29A4-4436-86FE-2F593992EF01"
+            },
+            {
+                "C9K37": "984868D5-CDC8-4E22-9917-BCAECB6F37D4",
+                "deviceId": "C9K37",
+                "position": {
+                    "x": "0.7972964136443915",
+                    "y": "0.7368783896969485"
+                },
+                "type": "node",
+                "uuid": "984868D5-CDC8-4E22-9917-BCAECB6F37D4"
+            },
+            {
+                "C9LN6": "9E1CA12E-15E0-4EEC-A21B-2CF99E5027B6",
+                "deviceId": "C9LN6",
+                "position": {
+                    "x": "0.5734443673374972",
+                    "y": "0.2910222209923808"
+                },
+                "type": "node",
+                "uuid": "9E1CA12E-15E0-4EEC-A21B-2CF99E5027B6"
+            },
+            {
+                "C9MCN": "9F7C772F-4413-4557-86F9-DDD135AA502B",
+                "deviceId": "C9MCN",
+                "position": {
+                    "x": "0.7380948119841478",
+                    "y": "0.9763552838670971"
+                },
+                "type": "node",
+                "uuid": "9F7C772F-4413-4557-86F9-DDD135AA502B"
+            },
+            {
+                "C9LPG": "A5396854-AC16-4E42-B698-6FD72CFEBA05",
+                "deviceId": "C9LPG",
+                "position": {
+                    "x": "0.3808143970154688",
+                    "y": "0.7858778466146842"
+                },
+                "type": "node",
+                "uuid": "A5396854-AC16-4E42-B698-6FD72CFEBA05"
+            },
+            {
+                "C9LB5": "AB269CBD-75F8-415C-BF6E-4912A68B9EEC",
+                "deviceId": "C9LB5",
+                "position": {
+                    "x": "0.22007102042021648",
+                    "y": "0.330296476994151"
+                },
+                "type": "node",
+                "uuid": "AB269CBD-75F8-415C-BF6E-4912A68B9EEC"
+            },
+            {
+                "C9LPJ": "BB636C41-B52A-4D51-9B4C-B6F252EFF279",
+                "deviceId": "C9LPJ",
+                "position": {
+                    "x": "0.7914088915794291",
+                    "y": "0.3643341655290183"
+                },
+                "type": "node",
+                "uuid": "BB636C41-B52A-4D51-9B4C-B6F252EFF279"
+            },
+            {
+                "C9L23": "BC09537D-85BB-46E4-AB04-5A6DEC8A53D0",
+                "deviceId": "C9L23",
+                "position": {
+                    "x": "0.718026045742466",
+                    "y": "0.7413670231460113"
+                },
+                "type": "node",
+                "uuid": "BC09537D-85BB-46E4-AB04-5A6DEC8A53D0"
+            },
+            {
+                "C9LQ9": "D092E629-F3F4-42AD-8365-6583F3694DFC",
+                "deviceId": "C9LQ9",
+                "position": {
+                    "x": "0.8061695203069664",
+                    "y": "0.5498893019824669"
+                },
+                "type": "node",
+                "uuid": "D092E629-F3F4-42AD-8365-6583F3694DFC"
+            },
+            {
+                "C9LN5": "F1A02F57-B16F-4450-96EA-4AE3E4C80F94",
+                "deviceId": "C9LN5",
+                "position": {
+                    "x": "0.8827006462218416",
+                    "y": "0.7492218743463654"
+                },
+                "type": "node",
+                "uuid": "F1A02F57-B16F-4450-96EA-4AE3E4C80F94"
+            },
+            {
+                "C9LM9": "FED674D0-D776-4AA1-8BBE-9F2643FFE135",
+                "deviceId": "C9LM9",
+                "position": {
+                    "x": "0.4412576317195782",
+                    "y": "0.2742284114666383"
+                },
+                "type": "node",
+                "uuid": "FED674D0-D776-4AA1-8BBE-9F2643FFE135"
+            },
+            {
+                "C9MVD": "2319C88A-C76F-40D3-8D3E-9D914551423E",
+                "deviceId": "C9MVD",
+                "position": {
+                    "x": "0.6830134829016375",
+                    "y": "0.7601819124056552"
+                },
+                "type": "node",
+                "uuid": "2319C88A-C76F-40D3-8D3E-9D914551423E"
+            },
+            {
+                "C9K9G": "67535045-03AD-4B6D-96B9-A828E1E1764B",
+                "deviceId": "C9K9G",
+                "position": {
+                    "x": "0.7803873674055226",
+                    "y": "0.9086174745756705"
+                },
+                "type": "node",
+                "uuid": "67535045-03AD-4B6D-96B9-A828E1E1764B"
+            },
+            {
+                "C9MVM": "B7966A94-A3D1-4A88-B457-53BC55989886",
+                "deviceId": "C9MVM",
+                "position": {
+                    "x": "0.48994457397152075",
+                    "y": "0.1865665196130541"
+                },
+                "type": "node",
+                "uuid": "B7966A94-A3D1-4A88-B457-53BC55989886"
+            }
+        ],
+        "title": "Enerthing_Halle_B\u00fcro"
+    },
+    "DD5213E1-55AD-41A0-97D9-D3D901C3761F": {
+        "assets": [
+            {
+                "C9MWP": "084E4B45-6101-4291-ACF7-6C464739A6B3",
+                "deviceId": "C9MWP",
+                "type": "asset",
+                "uuid": "084E4B45-6101-4291-ACF7-6C464739A6B3"
+            },
+            {
+                "C9L89": "2EBE249A-F81A-4FFC-AA92-58DD76FE429E",
+                "deviceId": "C9L89",
+                "type": "asset",
+                "uuid": "2EBE249A-F81A-4FFC-AA92-58DD76FE429E"
+            },
+            {
+                "C9LWM": "527A53E8-6735-461C-BAA1-261781CD94B3",
+                "deviceId": "C9LWM",
+                "type": "asset",
+                "uuid": "527A53E8-6735-461C-BAA1-261781CD94B3"
+            },
+            {
+                "C9L3Q": "A5D6460B-99D3-4C9D-A878-ACB07A80F8BE",
+                "deviceId": "C9L3Q",
+                "type": "asset",
+                "uuid": "A5D6460B-99D3-4C9D-A878-ACB07A80F8BE"
+            }
+        ],
+        "nodes": [
+            {
+                "C9L14": "26E87340-6B93-4DBB-B37E-63919F8AD076",
+                "deviceId": "C9L14",
+                "position": {
+                    "x": "0.14",
+                    "y": "0.17"
+                },
+                "type": "node",
+                "uuid": "26E87340-6B93-4DBB-B37E-63919F8AD076"
+            },
+            {
+                "C9LV7": "64E8047A-CBBC-4D7B-9BAB-D5BEA3B81E63",
+                "deviceId": "C9LV7",
+                "position": {
+                    "x": "0.45",
+                    "y": "0.72"
+                },
+                "type": "node",
+                "uuid": "64E8047A-CBBC-4D7B-9BAB-D5BEA3B81E63"
+            },
+            {
+                "C9L2Z": "689B0D33-F7CC-481E-B20D-21D2F751BB7E",
+                "deviceId": "C9L2Z",
+                "position": {
+                    "x": "0.14",
+                    "y": "0.72"
+                },
+                "type": "node",
+                "uuid": "689B0D33-F7CC-481E-B20D-21D2F751BB7E"
+            },
+            {
+                "C9L19": "9DB9179B-01D2-49DD-B345-2B2E0AF34D6E",
+                "deviceId": "C9L19",
+                "position": {
+                    "x": "0.8",
+                    "y": "0.17"
+                },
+                "type": "node",
+                "uuid": "9DB9179B-01D2-49DD-B345-2B2E0AF34D6E"
+            },
+            {
+                "C9L17": "E4508A8E-CF96-42CA-82F3-05BFA9F5298C",
+                "deviceId": "C9L17",
+                "position": {
+                    "x": "0.45",
+                    "y": "0.17"
+                },
+                "type": "node",
+                "uuid": "E4508A8E-CF96-42CA-82F3-05BFA9F5298C"
+            }
+        ],
+        "title": "Enerthing_B_Office"
+    },
+    "organizationId": "E40466DB-3C82-4C24-AD54-F5929E3763D3",
+    "siteIds": [
+        "DD5213E1-55AD-41A0-97D9-D3D901C3761F",
+        "716F6F92-1600-4FAC-9458-9E83A9BCD170"
+    ]
+}
