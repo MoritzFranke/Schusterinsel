@@ -6,8 +6,8 @@
                 "C9MVY": "33D399ED-2385-48CD-9E2B-1C5025CCFD85",
                 "deviceId": "C9MVY",
                 "position": {
-                    "x": 0,
-                    "y": 0
+                    "x": 1,
+                    "y": 1
                 },
                 "type": "asset",
                 "uuid": "33D399ED-2385-48CD-9E2B-1C5025CCFD85"
@@ -17,7 +17,7 @@
                 "C9LYL": "097D8A0E-0E17-46B2-A00D-399C937B43F5",
                 "deviceId": "C9LYL",
                 "position": {
-                    "x": 0,
+                    "x": 1,
                     "y": 0
                 },
                 "type": "asset",
@@ -29,7 +29,7 @@
                 "deviceId": "C9MPJ",
                 "position": {
                     "x": 0,
-                    "y": 0
+                    "y": 1
                 },
                 "type": "asset",
                 "uuid": "BF843C97-748F-4D05-AD5D-7C73D04921C7"
