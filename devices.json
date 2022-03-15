@@ -787,6 +787,78 @@
         ],
         "title": "Enerthing_Halle_B\u00fcro"
     },
+    "A00FF2A9-830D-4099-AC28-1AE0422074D9": {
+        "assets": [],
+        "nodes": [
+            {
+                "48C68D70-F5DE-4E22-A17D-222646E6F012": "C9MVN",
+                "C9MVN": "48C68D70-F5DE-4E22-A17D-222646E6F012",
+                "deviceId": "C9MVN",
+                "position": {
+                    "x": 0.72423486464245,
+                    "y": 0.3554118264745337
+                },
+                "type": "node",
+                "uuid": "48C68D70-F5DE-4E22-A17D-222646E6F012"
+            },
+            {
+                "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB": "C9MVQ",
+                "C9MVQ": "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB",
+                "deviceId": "C9MVQ",
+                "position": {
+                    "x": 0.7601250755771617,
+                    "y": 0.45996845568286315
+                },
+                "type": "node",
+                "uuid": "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB"
+            },
+            {
+                "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE": "C9MVP",
+                "C9MVP": "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE",
+                "deviceId": "C9MVP",
+                "position": {
+                    "x": 0.8534396240074124,
+                    "y": 0.456981123419768
+                },
+                "type": "node",
+                "uuid": "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE"
+            },
+            {
+                "48C68D70-F5DE-4E22-A17D-222646E6F012": "C9MVN",
+                "C9MVN": "48C68D70-F5DE-4E22-A17D-222646E6F012",
+                "deviceId": "C9MVN",
+                "position": {
+                    "x": 0.72423486464245,
+                    "y": 0.3554118264745337
+                },
+                "type": "node",
+                "uuid": "48C68D70-F5DE-4E22-A17D-222646E6F012"
+            },
+            {
+                "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB": "C9MVQ",
+                "C9MVQ": "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB",
+                "deviceId": "C9MVQ",
+                "position": {
+                    "x": 0.7601250755771617,
+                    "y": 0.45996845568286315
+                },
+                "type": "node",
+                "uuid": "58D07F03-BFBB-4BC6-8CA7-EB405AD3D8FB"
+            },
+            {
+                "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE": "C9MVP",
+                "C9MVP": "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE",
+                "deviceId": "C9MVP",
+                "position": {
+                    "x": 0.8534396240074124,
+                    "y": 0.456981123419768
+                },
+                "type": "node",
+                "uuid": "AB9A8C37-2C2E-43EA-BF39-A8AF190A9FBE"
+            }
+        ],
+        "title": "Jordanquelle Seniorenheim 2"
+    },
     "DD5213E1-55AD-41A0-97D9-D3D901C3761F": {
         "assets": [
             {
@@ -896,6 +968,7 @@
     "organizationId": "E40466DB-3C82-4C24-AD54-F5929E3763D3",
     "siteIds": [
         "DD5213E1-55AD-41A0-97D9-D3D901C3761F",
-        "716F6F92-1600-4FAC-9458-9E83A9BCD170"
+        "716F6F92-1600-4FAC-9458-9E83A9BCD170",
+        "A00FF2A9-830D-4099-AC28-1AE0422074D9"
     ]
 }
